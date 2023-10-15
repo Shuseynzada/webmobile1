@@ -7,7 +7,6 @@
 }
 
 body {
-    background-color: rgb(39, 39, 255);
 
 }
 body::-webkit-scrollbar{
@@ -50,4 +49,16 @@ nav {
 
 main {
     padding: 1em;
+}
+
+hr {
+    margin: 1em 0em;
+}
+
+.proggraming-languages{
+    border: 1px solid black;
+}
+
+.proggraming-languages td, th {
+    padding: 0.2em;
 }
